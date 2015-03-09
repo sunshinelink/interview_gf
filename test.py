@@ -47,7 +47,7 @@ class Test():
             print 'false', data
             return False
 
-    #统计所有符合的项
+    #统计所有符合的项.
     def simulator(self,data):
         b = len(data)
         a = len(self.da)
